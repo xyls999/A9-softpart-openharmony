@@ -1,0 +1,7 @@
+[submodule "A9-harmony-front-device"]
+	path = A9-harmony-front-device
+	url = https://github.com/xyls999/A9-harmony-front-device.git
+
+[submodule "HarmonyOS-mcp-server"]
+	path = HarmonyOS-mcp-server
+	url = https://github.com/xyls999/HarmonyOS-mcp-server.git
